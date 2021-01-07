@@ -1,0 +1,81 @@
+
+{
+  "code": 0,
+  "msg": "",
+  "count": 100,
+  "data": [
+    {
+      "majorName": "数学与应用数学",
+      "cno": "1720853",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 39,
+      "classTeacher": "麦老师",
+      "counsellor": "张老师"
+    },{
+      "majorName": "数学与应用数学",
+      "cno": "1720853",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 39,
+      "classTeacher": "麦老师",
+      "counsellor": "张老师"
+    },{
+      "majorName": "数学与应用数学",
+      "cno": "1720853",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 39,
+      "classTeacher": "麦老师",
+      "counsellor": "张老师"
+    },{
+      "majorName": "数学与应用数学",
+      "cno": "1720853",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 39,
+      "classTeacher": "麦老师",
+      "counsellor": "张老师"
+    },{
+      "majorName": "数学与应用数学",
+      "cno": "1720853",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 39,
+      "classTeacher": "麦老师",
+      "counsellor": "张老师"
+    },{
+      "majorName": "数学与应用数学",
+      "cno": "1720853",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 39,
+      "classTeacher": "麦老师",
+      "counsellor": "张老师"
+    },{
+      "majorName": "数学与应用数学",
+      "cno": "1720853",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 39,
+      "classTeacher": "麦老师",
+      "counsellor": "张老师"
+    },{
+      "majorName": "数学与应用数学",
+      "cno": "1720853",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 39,
+      "classTeacher": "麦老师",
+      "counsellor": "张老师"
+    },{
+      "majorName": "数学与应用数学",
+      "cno": "1720853",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 39,
+      "classTeacher": "麦老师",
+      "counsellor": "张老师"
+    }
+  ]
+}
